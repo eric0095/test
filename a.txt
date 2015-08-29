@@ -1,6 +1,1 @@
-a1
-b2
-master1
-dev1
-dev2
-now7
+i`m new master
